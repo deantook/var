@@ -55,24 +55,24 @@ func main() {
 
 	//从系统变量中获取名为 hello 的变量
 	hello1 := os.Getenv("REDIS_URL")
-	fmt.Println("hello", hello1)
-	fmt.Println("hello", hello1)
-	fmt.Println("hello", hello1)
-	fmt.Println("hello", hello1)
-	fmt.Println("hello", hello1)
-	fmt.Println("hello", hello1)
-	fmt.Println("hello", hello1)
-	fmt.Println("hello", hello1)
-	fmt.Println("hello", hello1)
-	fmt.Println("hello", hello1)
+	fmt.Println("hello1", hello1)
+	fmt.Println("hello1", hello1)
+	fmt.Println("hello1", hello1)
+	fmt.Println("hello1", hello1)
+	fmt.Println("hello1", hello1)
+	fmt.Println("hello1", hello1)
+	fmt.Println("hello1", hello1)
+	fmt.Println("hello1", hello1)
+	fmt.Println("hello1", hello1)
+	fmt.Println("hello1", hello1)
 
-	// 打印日志1
+	// 打印日志11
 
-	log.Println("hello", hello1)
-	log.Println("hello", hello1)
-	log.Println("hello", hello1)
-	log.Println("hello", hello1)
-	log.Println("hello", hello1)
-	log.Println("hello", hello1)
+	log.Println("hello1", hello1)
+	log.Println("hello1", hello1)
+	log.Println("hello1", hello1)
+	log.Println("hello1", hello1)
+	log.Println("hello1", hello1)
+	log.Println("hello1", hello1)
 
 }
