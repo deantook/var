@@ -1,0 +1,29 @@
+# Git 相关
+.git
+.gitignore
+
+# Go 相关
+*.go~
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# 依赖和构建产物
+vendor/
+*.mod.sum
+
+# IDE 相关
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 其他
+.DS_Store
+README.md
